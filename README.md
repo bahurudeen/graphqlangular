@@ -4,7 +4,7 @@ node and npm
 
 # Clone the repository
 
-git clone https://github.com/bahurudeen/graphqlangular.git
+git clone https://github.com/bahurudeen/graphqlangular.git .
 
 # Install GraphQL Server
 
