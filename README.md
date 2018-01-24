@@ -17,7 +17,10 @@ Run `npm start`. Navigate to `http://localhost:4000/graphql`.
 
 Change the current directory into AngularClient and Install the application: `npm install`
 
+# Install Angular CLI
+`npm install --save-dev @angular/cli@latest`
+
 # Run the application
-Run `ng server`. Navigate to `http://localhost:4200`.
+Run `ng serve`. Navigate to `http://localhost:4200`
 
 
